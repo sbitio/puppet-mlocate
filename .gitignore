@@ -1,0 +1,18 @@
+# @see https://www.kernel.org/pub/software/scm/git/docs/gitignore.html
+# @see http://git-scm.com/docs/gitignore
+# @see https://help.github.com/articles/ignoring-files
+# @see https://github.com/github/gitignore
+# @see http://gitignore.io/cli
+
+### vim ###
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### Linux ###
+.*
+!.gitignore
+*~
+
